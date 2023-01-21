@@ -1,4 +1,4 @@
-# Junior Phase Final Project
+# BOILERPLATE
 
 ## Getting started
 
